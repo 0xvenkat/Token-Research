@@ -130,4 +130,4 @@ As per LinkedIn, the QREDO team has 103 employees, with a mix of cryptography, s
 ### Conclusion
 Qredo’s goal is to offer institutional crypto investors two solutions in one: 
 An inexpensive, secure and decentralized custodial solution and low-cost cross-chain swaps and other DeFi services. To say Qredo is doing a good job providing these solutions is an understatement. 
-The networks long term ambitions are to usher in a new paradigm for crypto asset custody to further the growth of decentralized industries globally. 
+The networks long term ambitions are to usher in a new paradigm for crypto asset custody to further the growth of decentralized industries globally.
