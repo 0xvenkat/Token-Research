@@ -10,7 +10,7 @@ The platform employs a unique consensus mechanism known as Proof of History (PoH
 * FDV: $41.2b 
 * Market cap/FDV: 0.76
 * Launch: Aug 2020
-* Whitepaper: Solana Whitepaper
+* Whitepaper: [Solana Whitepaper](https://solana.com/solana-whitepaper.pdf)
 
 ## Overview 
 #### High Throughput: 
