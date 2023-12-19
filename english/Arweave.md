@@ -129,7 +129,7 @@ Below are some of the metrices from Arweave’s blockchain explorer, viewblock.i
 Founder: [Sam Williams](https://twitter.com/samecwilliams?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor) & [Jesper Noehr](https://twitter.com/jespern?lang=en)
 
 Team Size: 20+
- 
+
 ### Resources
 
 * [Website](https://www.arweave.org/)
