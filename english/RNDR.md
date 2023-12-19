@@ -12,6 +12,7 @@ Render Network (RNDR)
 * Max. Token Supply: 530.962m
 * Market Capitalization: $210.67m
 * FDV: $388.5m
+* WhitePaper: [RNDR WhitePaper](https://renderfoundation.com/whitepaper)
 * Launch: April 2020
 
 # Overview
