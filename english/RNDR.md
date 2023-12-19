@@ -164,7 +164,7 @@ Comparing Render's Network to similar protocols in the Web3 space, it is evident
 
 Founder: [Jules Urbach](https://twitter.com/julesurbach?lang=en) (Founder and CEO of OTOY)
 
-[Team](https://rendertoken.com/#team) of 60+ 
+[Team](https://rendertoken.com/#team) of 60+
 
 ## Resources
 * [Website](https://rendertoken.com/)
