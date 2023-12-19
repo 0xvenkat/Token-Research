@@ -1,5 +1,5 @@
 # Investment Theses 
-This is a repository of Investment Research conducted by [Adithya Venkat](https://www.linkedin.com/in/adithya-venkat22/) 
+This is a repository of Investment Research conducted by [Adithya Venkat](https://www.linkedin.com/in/adithya-venkat22/) .
 
 This is NFA 
 Every investment strategy and venture carry the inherent risk of potential losses. 
